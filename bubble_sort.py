@@ -9,3 +9,8 @@ def dubble_sort(data):
 
 data=list(map(int,input().split())) 
 print(dubble_sort(data))         
+jb
+huh
+yed
+nghg
+ngjk
