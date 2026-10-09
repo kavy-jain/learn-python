@@ -1,4 +1,4 @@
-def dubble_sort(data):
+def bubble_sort(data):
   n=len(data)
   for i in range (n):
     for j in range(0,n-i-1):
@@ -8,9 +8,4 @@ def dubble_sort(data):
   return data
 
 data=list(map(int,input().split())) 
-print(dubble_sort(data))         
-jb
-huh
-yed
-nghg
-ngjk
+print(bubble_sort(data))         
